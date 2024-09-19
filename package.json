@@ -1,0 +1,13 @@
+{
+  "name": "SrilekhaS20.github.io",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
