@@ -11566,7 +11566,7 @@ html {
 }
 
 .text-gradient {
-  background: -webkit-linear-gradient(315deg, #a0b9ff 0%, #f78fb3 100%);
+  background: -webkit-linear-gradient(315deg, #ff77a9 0%, #a75bff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -11594,13 +11594,11 @@ html {
   max-width: 40rem;
 }
 .profile .profile-img {
-  height: 80vw;
-  max-height: 45rem;
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
+  border: 2px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
 }
+
 .profile .dots-1 {
   position: absolute;
   width: 3vw;
@@ -11736,5 +11734,10 @@ html {
   .profile .dots-4 {
     width: 1.5vw;
     left: -2vw;
+  }
+
+  .custom-size {
+    max-width: 50%; /* Image will not exceed the container width */
+    height: auto; /* Maintain aspect ratio */
   }
 }
