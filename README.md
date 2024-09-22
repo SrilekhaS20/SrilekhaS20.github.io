@@ -40,7 +40,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## Contact
 
-- LinkedIn: [Srilekha Senthilkumar](https://www.linkedin.com/in/srilekhas/)
+- LinkedIn: [Srilekha Senthilkumar](www.linkedin.com/in/srilekha-senthilkumar)
 - GitHub: [SrilekhaS20](https://github.com/SrilekhaS20)
 
 ## Acknowledgments
